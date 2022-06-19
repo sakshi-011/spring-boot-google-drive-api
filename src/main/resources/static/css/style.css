@@ -1,0 +1,23 @@
+ * {
+   margin: 0;
+   padding: 0;
+   box-sizing: inherit;
+ }
+
+ html {
+   box-sizing: border-box;
+   overscroll-behavior-y: none;
+ }
+
+ .img--container {
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+ }
+
+ img {
+     height: 250px;
+     width: 250px;
+     padding: 10px;
+ }
