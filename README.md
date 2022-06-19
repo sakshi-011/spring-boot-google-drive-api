@@ -8,7 +8,7 @@ Spring Boot Web Application making calls to Google Drive API using OAuth credent
 
 ##Screenshots - 
 1. homepage
-<img src="screenshots/screenshot_homepage.png" alt="home page screenshot" width="800" height="423" />
+![screenshot_homepage](https://user-images.githubusercontent.com/101360946/174493906-db6f529f-1d70-4356-860e-29fcd7bfd98c.png)
 
 2. /list/flower_images
-<img src="screenshots/screenshot_list.png" alt="home page screenshot" width="800" height="423" />
+![screenshot_list](https://user-images.githubusercontent.com/101360946/174494147-85afe45e-6df2-4d91-b15b-973c227ef6b4.png)
